@@ -12,3 +12,13 @@ git clone https://github.com/prevetmelon/cub3d.git ~/cub3d
 cd ~/cub3d && make && ./cub3d map.cub
 ```
 
+# Keybord shortcuts
+
+|       Action                    |      Key      |
+| ------------------------------- | ------------- |
+| Move forward                    |       W       |
+| Move backwards                  |       S       |
+| Move to the right               |       D       |
+| Move to the left                |       A       |
+| Change view angle to the left   |       ◄       |
+| Change view angle to the right  |       ►       |
