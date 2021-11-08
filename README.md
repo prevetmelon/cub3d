@@ -8,8 +8,8 @@ make a dynamic view inside a maze.
 # Install
 
 ```
+
 https://github.com/prevetmelon/cub3d.git ~/cub3d
 cd ~/cub3d && make && ./cub3d map.cub
-
 ```
 
