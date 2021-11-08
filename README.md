@@ -22,3 +22,8 @@ cd ~/cub3d && make && ./cub3d map.cub
 | Move to the left                |       A       |
 | Change view angle to the left   |       ◄       |
 | Change view angle to the right  |       ►       |
+
+
+# Screenshots
+
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
