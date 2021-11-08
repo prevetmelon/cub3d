@@ -23,7 +23,3 @@ cd ~/cub3d && make && ./cub3d map.cub
 | Change view angle to the left   |       ◄       |
 | Change view angle to the right  |       ►       |
 
-
-# Screenshots
-
-![Alt text](https://github.com/prevetmelon/cub3d/blob/master/screen1.jpg "screenshot1")
