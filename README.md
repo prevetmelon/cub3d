@@ -1,3 +1,5 @@
+[![chandsom's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl1p1tqxp009409mnhy38ochf/project/2087216)](https://github.com/JaeSeoKim/badge42)
+
 # CUB3D
 This project is inspired by the world-famous Wolfenstein 3D game, which
 was the first FPS ever. It includes ray-casting. The goal is to
